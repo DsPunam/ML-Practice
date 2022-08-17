@@ -1,0 +1,16 @@
+for linear regression
+1. Import libraries
+2. Read dataset
+3. Create graph
+4. Create linear regression instance
+5. Minimize the difference between predicted and observed data using fit()
+
+
+for multivariate regression
+1.import libraries
+2.read dataset
+3.if some element missing in dataframe then we have to use fillna method 
+  to replace the null values
+4.we assume the median of the values of that coloumn to fill the null values
+5.then using linear regression method we can predict the price of the some product
+
